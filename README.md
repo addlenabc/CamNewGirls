@@ -50,26 +50,15 @@ What you’ll get:
 
 ---
 
-## 🛠️ Tech Stack (TL;DR)
+🌟 Suppor
 
-- Python 3.8+  
-- DrissionPage (browser automation)  
-- OpenCV + MediaPipe (vision recognition)  
-- SQLite + Telegram Bot (message delivery)  
-
-> The full source code is open‑source on GitHub – feel free to explore, learn, or build your own.
+If you find this project helpful, please give it a ⭐ Star to help others discover it. Your support means a lot!
 
 ---
 
 ## 📄 License
 
 MIT License
-
----
-
-🌟 Suppor
-
-If you find this project helpful, please give it a ⭐ Star to help others discover it. Your support means a lot!
 
 ---
 
