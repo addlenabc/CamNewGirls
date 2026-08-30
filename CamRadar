@@ -1,0 +1,16 @@
+# CamRadar PiP Assistant
+
+A userscript for **Stripchat, Chaturbate, Bongacams, Cam4 and CamSoda**.
+
+- 🛡 Keep playing when the tab is hidden
+- 📺 One-click native Picture-in-Picture
+- ⚡ Discover New Models — one click opens the new-models channel of the site you are browsing
+
+## One-click install
+
+Install Tampermonkey, then open:
+<https://raw.githubusercontent.com/addlenabc/CamNewGirls/main/userscript/camradar-pip-assistant.user.js>
+
+## License
+
+MIT
